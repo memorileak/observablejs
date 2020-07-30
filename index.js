@@ -21,8 +21,8 @@ Observable.prototype.unsubscribe = function (key) {
 
 Observable.prototype.broadcast = function () {
   for (let key in this.observers) {
-    this.observers[key]();
+    setTimeout(this.observers[key], 0);
   }
 };
 
-module.exports = {Observable};
+module.exports = Observable;
