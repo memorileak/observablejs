@@ -1,0 +1,27 @@
+{
+  "name": "observablejs",
+  "version": "1.0.0",
+  "description": "Basic Observable pattern implemented in JavaScript language",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tungnvan/observablejs.git"
+  },
+  "keywords": [
+    "observable",
+    "javascript",
+    "js"
+  ],
+  "author": "Tung Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tungnvan/observablejs/issues"
+  },
+  "homepage": "https://github.com/tungnvan/observablejs#readme"
+}
