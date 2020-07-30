@@ -1,6 +1,6 @@
 {
   "name": "observablejs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Basic Observable pattern implemented in JavaScript language",
   "main": "index.js",
   "directories": {
