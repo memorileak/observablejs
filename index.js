@@ -25,4 +25,4 @@ Observable.prototype.broadcast = function () {
   }
 };
 
-module.exports = {Observable};
+module.exports = Observable;
